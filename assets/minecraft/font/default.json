@@ -2,24 +2,21 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "prefixes/founder.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\ue350"]
-        },
-        {
-            "type": "bitmap",
             "file": "prefixes/Ranks.png",
             "ascent": 7,
             "height": 8,
             "chars": [
+                "\ue350",
                 "\ue351",
                 "\ue352",
                 "\ue353",
                 "\ue354",
                 "\ue355",
                 "\ue356",
-                "\ue357"
+                "\ue357",
+                "\ue358",
+                "\ue359",
+                "\ue360"
             ]
         },
         {
