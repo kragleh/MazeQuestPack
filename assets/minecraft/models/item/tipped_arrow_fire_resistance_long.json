@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow_fire_resistance_overlay",
+        "layer1": "item/base_4_long"
+    }
+}

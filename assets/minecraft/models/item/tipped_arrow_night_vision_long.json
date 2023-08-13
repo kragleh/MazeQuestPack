@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/arrow_night_vision_overlay",
+        "layer1": "item/base_3_long"
+    }
+}

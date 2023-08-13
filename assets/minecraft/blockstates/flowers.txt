@@ -1,0 +1,23 @@
+--SMALL--
+dandelion
+poppy
+blue orchid
+allium
+azure bluet
+red tulip
+orange tulip
+white tulip
+pink tulip
+oxeye daisy
+cornflower
+lily of the valley
+wither rose
+--BIG--
+sunflower
+lilac
+rose bush
+peony
+
+--CODE--
+butterfly = orange butterfly
+butterfly1 = purple butterfly

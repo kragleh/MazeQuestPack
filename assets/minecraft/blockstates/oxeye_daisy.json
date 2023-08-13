@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	  {"model": "minecraft:block/oxeye_daisy", "y":0, "weight":44},
+	  {"model": "minecraft:block/oxeye_daisy_butterfly", "y":0, "weight":1},
+	  {"model": "minecraft:block/oxeye_daisy_butterfly", "y":90, "weight":1},
+	  {"model": "minecraft:block/oxeye_daisy_butterfly1", "y":0, "weight":1},
+	  {"model": "minecraft:block/oxeye_daisy_butterfly1", "y":90, "weight":1}
+	]
+  }
+}
+//Modified in: Beautiful prototype 2

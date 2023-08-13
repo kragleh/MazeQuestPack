@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{"model": "minecraft:block/dandelion", "weight":40},
+	{"model": "minecraft:block/dandelion_butterfly", "weight":1},
+	{"model": "minecraft:block/dandelion_butterfly", "y":90, "weight":1},
+	{"model": "minecraft:block/dandelion_butterfly1", "weight":1},
+	{"model": "minecraft:block/dandelion_butterfly1", "y":90, "weight":1}
+	]
+  }
+}
+//Improved in Beautiful protype 2
